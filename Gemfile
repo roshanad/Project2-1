@@ -22,6 +22,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'simple_form', '~> 3.2'
 gem 'paperclip', '~> 4.3', '>= 4.3.2'
+gem 'cocoon', '~> 1.2', '>= 1.2.6'
+gem 'devise'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
